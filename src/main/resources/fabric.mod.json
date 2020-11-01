@@ -3,8 +3,8 @@
   "id": "clicktele",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "Compass teleportation",
+  "name": "ClickTele",
+  "description": "Turns the compass into a player teleportation tool.",
   "authors": [
     "Garrett Edwards"
   ],

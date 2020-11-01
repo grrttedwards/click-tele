@@ -46,7 +46,6 @@ public class ClickTele implements ModInitializer {
                                     COOLDOWN_LENGTH = Duration.ofSeconds(seconds);
                                     return Command.SINGLE_SUCCESS;
                                 }))
-
         ));
     }
 
@@ -92,5 +91,4 @@ public class ClickTele implements ModInitializer {
         // couldn't place them in any open space
         return TypedActionResult.pass(itemHeld);
     }
-
 }
